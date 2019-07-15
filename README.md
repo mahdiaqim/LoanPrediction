@@ -23,10 +23,10 @@ The company wants to automate the loan eligibility process (real time) based on 
 - Property_Area	Urban/ Semi Urban/ Rural
 - Loan_Status	Loan approved (Y/N)
 
-For this dataset I carried a complete analysis from EDA and data preprocessing and built different classification models (logistic regression, decision tree,
-random forrest, XGBoost, SVC and  KNN). Finally, I build the pipeline.
-The results of the models accurancy are:
+For this dataset I carried a complete analysis from EDA and data preprocessing and built different classification models (logistic regression, decision tree, random forrest, XGBoost, SVC and  KNN). Finally, I build the pipeline.
 
+## Results
+The results of the models accurancy are:
 
 - Logistic Regression : 0.7847
 - Decission Tree : 0.7569
